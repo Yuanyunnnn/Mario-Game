@@ -1,0 +1,1 @@
+Mario Game is a fun 2D platformer game built with HTML, JavaScript, and the p5.js + p5play libraries. In this game, you control a character who can move, jump, and interact with the environment. Your goal is to navigate through platforms, avoid hazards like water and lava, defeat enemies, collect coins, and ultimately reach the castle or finish platform to win.
